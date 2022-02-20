@@ -1,1 +1,25 @@
+*{
+  margin 0
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
 
+body{
+  background-color: #f5f5f5;
+}
+h1{ 
+  margin: auto;
+  text-allign: center;
+}
+
+img{
+  margin: auto;
+  allign-item: center;
+}
+
+a{
+   border: 5px solid black;
+  color: black;
+  text-decoration: none;
+  padding: 2em;
+}
