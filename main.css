@@ -9,17 +9,20 @@ body{
 }
 h1{ 
   margin: auto;
-  text-allign: center;
+  text-align: center;
 }
 
 img{
   margin: auto;
-  allign-item: center;
+  align-item: center;
 }
 
 a{
    border: 5px solid black;
   color: black;
   text-decoration: none;
-  padding: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
